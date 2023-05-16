@@ -1,0 +1,1 @@
+/home/penay/diesel_demo/target/debug/write_posts: /home/penay/diesel_demo/src/bin/write_posts.rs /home/penay/diesel_demo/src/lib.rs /home/penay/diesel_demo/src/models.rs /home/penay/diesel_demo/src/schema.rs
